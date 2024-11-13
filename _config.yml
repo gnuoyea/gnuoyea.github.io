@@ -1,8 +1,5 @@
 theme: jekyll-theme-minimal
-title: "title"
-description: "description"
-navigation:
-  - title: "home"
-    url: "/"
-  - title: "math"
-  url: "/"
+title: "Micaela Roth"
+description: "[description]"
+
+[Link to another page](./another-page.html).
