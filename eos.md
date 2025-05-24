@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Notes on The Elements of Style by Strunk & White
+## Notes on _The Elements of Style_ by Strunk & White
 
 _warning: blatant hypocrisy ahead_
 
