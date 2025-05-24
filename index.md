@@ -13,4 +13,6 @@ layout: default
 
 [Turn your eyes upon Jesus](./tye.html)
 
+[At a moment's notice](./aamn.html)
+
 [Notes on _The Elements of Style_ by Strunk & White](./eos.html)
