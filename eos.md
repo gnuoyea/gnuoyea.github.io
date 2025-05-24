@@ -2,15 +2,15 @@
 layout: default
 ---
 
-##Notes on The Elements of Style by Strunk & White
+## Notes on The Elements of Style by Strunk & White
 
 _warning: blatant hypocrisy ahead_
 
-Introduction
-The introduction, written by E.B. White, is a compelling background on White’s university professor Will Strunk and his little book of rules that make a case for “cleanliness, accuracy, and brevity in the use of English”.
-Strunk’s rules are rigid, uncompromising orders, many of which are focused on conciseness. Despite the book’s simplicity and short length, it is highly applicable to writers of all levels, and its compactness only strengthens the propounded principles.
+### Introduction
+- The introduction, written by E.B. White, is a compelling background on White’s university professor Will Strunk and his little book of rules that make a case for “cleanliness, accuracy, and brevity in the use of English”.
+- Strunk’s rules are rigid, uncompromising orders, many of which are focused on conciseness. Despite the book’s simplicity and short length, it is highly applicable to writers of all levels, and its compactness only strengthens the propounded principles.
 
-I. Elementary Rules of Usage
+### I. Elementary Rules of Usage
 
 For conciseness, I’ve chosen to omit a few rules, in this chapter and in the succeeding chapters, that I found uninteresting or obvious. This change, partially inspired by Strunk’s cry to “omit needless words”, takes place later in the bulleted lists.
 
