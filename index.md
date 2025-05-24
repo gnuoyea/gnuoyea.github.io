@@ -12,3 +12,5 @@ layout: default
 # Ramblings
 
 [Turn your eyes upon Jesus](./tye.html)
+
+[Notes on _The Elements of Style_ by Strunk & White](./eos.html)
