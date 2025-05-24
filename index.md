@@ -9,6 +9,6 @@ layout: default
 
 [Goodreads](https://www.goodreads.com/user/show/124209065-micaela-roth)
 
-# Pages
+# Ramblings
 
-[math](./math.html)
+[Turn your eyes upon Jesus](./tye.html)
