@@ -12,7 +12,7 @@ Trotter’s decision didn’t make much sense to those around her. Why would suc
 
 Even in the midst of darkness, Jesus the ultimate Healer meets us, inviting us into fellowship with him. When we long for the fleeting lights of this world, He shows us the light of unfailing love and all else dims in comparison. For we serve a God who, because of His goodness, engages in a faithful pursuit of distracted and scattered hearts.
 
-~
+//
 
 “Gathered up, focussed [sic] lives, intent on one aim—Christ—these are the lives on which God can concentrate blessedness.”
 
@@ -20,7 +20,7 @@ Even in the midst of darkness, Jesus the ultimate Healer meets us, inviting us i
 
 “For He is worthy to have all there is to be had in the heart that He has died to win.”
 
-~
+//
 
 [Link to cited text](https://liliastrotter.com/wp-content/uploads/FOCUSSED.pdf)
 
