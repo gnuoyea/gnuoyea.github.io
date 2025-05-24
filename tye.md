@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Turn your eyes upon Jesus
+
 _“…And the things of earth will grow strangely dim, in the light of His glory and grace.”_
 
 One of my favorite hymns, “Turn Your Eyes Upon Jesus”, was inspired by a woman who laid down her life to focus on serving the Lord. In 1888, Lilias Trotter chose to reject an opportunity to pursue an all-consuming career as an artist in London—in order to follow a deep calling to seek out the lost as a missionary in North Africa.
