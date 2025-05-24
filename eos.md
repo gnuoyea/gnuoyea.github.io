@@ -8,7 +8,6 @@ _warning: blatant hypocrisy ahead_
 
 ### Introduction
 - The introduction, written by E.B. White, is a compelling background on White’s university professor Will Strunk and his little book of rules that make a case for “cleanliness, accuracy, and brevity in the use of English”.
-  
 - Strunk’s rules are rigid, uncompromising orders, many of which are focused on conciseness. Despite the book’s simplicity and short length, it is highly applicable to writers of all levels, and its compactness only strengthens the propounded principles.
 
 ### I. Elementary Rules of Usage
@@ -16,7 +15,9 @@ _warning: blatant hypocrisy ahead_
 For conciseness, I’ve chosen to omit a few rules, in this chapter and in the succeeding chapters, that I found uninteresting or obvious. This change, partially inspired by Strunk’s cry to “omit needless words”, takes place later in the bulleted lists.
 
 - Rule 1: Form the possessive singular of nouns by adding ‘s. No matter what letter the singular noun ends with, if a writer is forming a possessive version of that noun, simply add ‘s.
+  
 - Rule 2: In a series of three or more terms with a single conjunction, use a comma after each term except for the last. The last such comma in a list is often known as a serial comma or an Oxford comma. So far, these rules are pretty basic guidelines of grammar.
+  
 - Rule 3: Enclose parenthetic expressions between commas. Strunk defines a parenthetic expression as one that interrupts the flow of a sentence. I also noticed that such expressions tend to modify the initial item in the list by providing more information. The author, with the help of a series of examples, backed up my intuitive knowledge by defining these modifiers as “nonrestrictive relative clauses”. In contrast, restrictive clauses (those that do not significantly interrupt the flow of a sentence), while more difficult to identify, do not require commas. I find it interesting that many principles of grammar are already known in practice, yet might not be immediately identified in theory. Just looking back at the paragraph I wrote, there are many examples of nonrestrictive relative clauses in particular.
 - Rule 4: Place a comma before a conjunction introducing an independent clause. Rule four is self-explanatory— without this comma, a sentence with two independent clauses is long and hard to read. 
 Rule 5: Do not join independent clauses with a comma. This rule is interesting because of the sheer volume of people who defy it on a daily basis. That is not to say that I do not violate it from time to time as well— in fact, any given essay of mine is bound to blatantly disregard an excessive number of Strunk’s rules (in most cases, those concerned with brevity). The exception to the rule also intrigued me as I’ve never heard of it before. While the sentences given as examples (e.g. “here today, gone tomorrow”) made sense to me intuitively, they didn’t really make sense grammatically. 
