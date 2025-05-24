@@ -8,6 +8,7 @@ _warning: blatant hypocrisy ahead_
 
 ### Introduction
 - The introduction, written by E.B. White, is a compelling background on White’s university professor Will Strunk and his little book of rules that make a case for “cleanliness, accuracy, and brevity in the use of English”.
+  
 - Strunk’s rules are rigid, uncompromising orders, many of which are focused on conciseness. Despite the book’s simplicity and short length, it is highly applicable to writers of all levels, and its compactness only strengthens the propounded principles.
 
 ### I. Elementary Rules of Usage
