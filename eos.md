@@ -83,7 +83,7 @@ I’ve listed a few of the misused expressions that stood out to me below. I mys
 - Currently. In the sense of now with a verb in the present tense, “currently” is usually redundant. This recommendation might sometimes be taken a step further by eliminating the word altogether.
   
 
-V. An Approach to Style (With a List of Reminders)
+### V. An Approach to Style (With a List of Reminders)
 
 At the start of chapter five, the author gives a long explanation of what a writer’s personal style entails, stepping out from the rigid rules of chapter one into more gentle reminders and suggestions to help the reader “find the way to a satisfactory style”. 
 
