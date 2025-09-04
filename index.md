@@ -11,6 +11,7 @@ layout: default
 
 # Math
 
+[Geometric Group Theory](./geometric_group_theory.pdf)
 
 # Ramblings
 
