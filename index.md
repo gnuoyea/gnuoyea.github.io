@@ -11,7 +11,9 @@ layout: default
 
 # Math
 
-[Geometric Group Theory](./geometric_group_theory.pdf)
+[Geometric Group Theory (Notes)](./geometric_group_theory.pdf)
+
+[Algebraic Combinatorics (Notes)](./promys_alg_combo.pdf)
 
 # Ramblings
 
