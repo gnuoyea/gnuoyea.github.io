@@ -3,6 +3,8 @@ layout: default
 ---
 # Orion's Belt
 
+12:38AM
+
 The music library at Wellesley is a good place to go for balance. The quiet basement provides a focused study environment, but stay too late and you’ll be quickly ushered out by student workers so that it can close for the night. 
 
 After studying for a couple hours with a good friend who shares my passion for finding ideal study spots, we left the library a few minutes before midnight. While walking back, we often talk about how much longer we’ll be up, and she always reminds me that I could just sleep and finish my work tomorrow morning. For me, this requires a large quantity of self-control. My mom says that the best song to describe me is “Till I Collapse” by Eminem. Yeah, you can probably guess what she means based on the title.
