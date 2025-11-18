@@ -18,7 +18,7 @@ Tonight, the sky was clear, and the air was crisp. Looking up at the stars, we p
 
 Constellations are one thing, but if you look at each of the stars individually, they seem to be blinking on and off. “Probably something to do with light refraction.” Indeed, as the beam of light travels from its faraway source to our eyes, small atmospheric disturbances bend its path. To me, with my lack of knowledge of the actual physics behind this, it’s a wonder that the light can even reach my eyes at all. 
 
-To me, witnessing the glory of nature moves me to praise its Creator. “And God made the two great lights—the greater light to rule the day and the lesser light to rule the night—and the stars” (Genesis 1:16). But he didn’t stop there. “He [the Lord] determines the number of the stars; he gives to all of them their names” (Psalm 147:4).
+Witnessing the glory of nature moves me to praise its Creator. “And God made the two great lights—the greater light to rule the day and the lesser light to rule the night—and the stars” (Genesis 1:16). But he didn’t stop there. “He [the Lord] determines the number of the stars; he gives to all of them their names” (Psalm 147:4).
 
 The same God who set the stars in place, numbered them, and even named them—also created you and me. One thing you can’t deny about His creation is that it is detailed beyond our comprehension.
 
