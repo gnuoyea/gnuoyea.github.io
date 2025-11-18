@@ -13,7 +13,7 @@ layout: default
 
 [Algebraic Combinatorics](./promys_alg_combo.pdf)
 
-# Ramblings/blog-ish? (latest on top)
+# Blog-ish? (latest on top)
 
 [At a moment's notice](./aamn.html)
 
