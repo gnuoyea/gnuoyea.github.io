@@ -9,9 +9,9 @@ layout: default
 
 # Math notes
 
-[Geometric Group Theory](./geometric_group_theory.pdf)
+[(07/2025) Geometric Group Theory](./geometric_group_theory.pdf)
 
-[Algebraic Combinatorics](./promys_alg_combo.pdf)
+[(07/2025) Algebraic Combinatorics](./promys_alg_combo.pdf)
 
 # Blog-ish? (latest on top)
 
