@@ -7,11 +7,11 @@ layout: default
 
 [Goodreads](https://www.goodreads.com/user/show/124209065-micaela-roth)
 
-# Math
+# Math notes
 
-[Geometric Group Theory (Notes)](./geometric_group_theory.pdf)
+[Geometric Group Theory](./geometric_group_theory.pdf)
 
-[Algebraic Combinatorics (Notes)](./promys_alg_combo.pdf)
+[Algebraic Combinatorics](./promys_alg_combo.pdf)
 
 # Ramblings/blog-ish? (latest on top)
 
