@@ -15,8 +15,10 @@ layout: default
 
 # Blog-ish? (latest on top)
 
-[At a moment's notice](./aamn.html)
+[(11/18/25) Stargazing](./stargazing.html)
 
-[Turn your eyes upon Jesus](./tye.html)
+[(05/24/25) At a moment's notice](./aamn.html)
+
+[(08/28/22) Turn your eyes upon Jesus](./tye.html)
 
 
