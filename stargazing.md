@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Orion's Belt
 
 The music library at Wellesley is a good place to go for balance. The quiet basement provides a focused study environment, but stay too late and you’ll be quickly ushered out by student workers so that it can close for the night. 
 
