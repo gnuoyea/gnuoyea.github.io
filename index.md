@@ -15,7 +15,7 @@ layout: default
 
 # Blog-ish? (latest on top)
 
-[(11/18/25) Stargazing](./stargazing.html)
+[(11/18/25) Orion's Belt](./stargazing.html)
 
 [(05/24/25) At a moment's notice](./aamn.html)
 
