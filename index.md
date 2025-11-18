@@ -13,7 +13,7 @@ layout: default
 
 [(07/2025) Algebraic Combinatorics](./promys_alg_combo.pdf)
 
-# Blog-ish? (latest on top)
+# Blog-ish?
 
 [(11/18/25) Orion's Belt](./stargazing.html)
 
